@@ -4,4 +4,5 @@
 
 ❤️ I like to write some HTML, CSS and JS
 
-<img src="https://github-readme-stats.vercel.app/api?username=yellowface233&hide=[%22issues%22]&show_icons=true" />
+![]https://github-readme-stats.vercel.app/api?username=yellowface233&hide=[%22issues%22]&show_icons=true
+
