@@ -1,4 +1,4 @@
-🖥 My Blog: https://www.7i24.xyz/
+🖥 My Blog: https://www.136588.club/
 
 ❤️ QQ：3506642728
 
