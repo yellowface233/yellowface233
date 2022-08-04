@@ -1,4 +1,4 @@
-🖥 My Website: https://www.xiobb.vip/
+🖥 Buy Server: https://www.7inet.cn/
 
 ❤️ QQ：3506642728
 
