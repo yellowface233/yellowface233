@@ -1,4 +1,6 @@
-买服务器来这里 => https://www.7inet.cn
+买服务器来这里 => https://idc.i45s.com
+
+个人博客 => https://www.i45s.com
 
 联系我: QQ 3506642728 Mail: yellowface9@qq.com
 
