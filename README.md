@@ -4,7 +4,7 @@
 
   - Blog: https://www.imxb.de
    
-  - Buy VPS? https://www.7inet.com.cn
+  - Purchase VPS? https://www.7inet.com.cn
 
 
 ![Skills](https://skillicons.dev/icons?i=windows,vscode,php,dotnet,nodejs,express,html,css,js,vue,nuxt,react,electron,vite,markdown&theme=light)
