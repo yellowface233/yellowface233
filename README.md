@@ -1,6 +1,7 @@
 
 <h1 align=center>Hi there👋 I am xiobb!</h1>
 
+  - 🎓 High school student | Self-taught developer
   - 🖊 Blog: https://www.imxb.de
   - 💻 IaaS Provider: https://www.7inet.moe
 
@@ -10,18 +11,19 @@
 
 # 💻 Operating Systems I Use
 
-**PC:**
+**Daily use:**
  - **Windows 11 24H2 LTSC** (ThinkPad)
  - **Windows 10 22H2 ProW** (Surface)
 
-**Server:**
- - **Windows Server 2012 R2**
- - **Debian 12**
+**Server & DevOps:**
+ - **Windows Server 2012 R2** (Hosting *Kangle Web Server* for production sites.)
+ - **RockyLinux 9.3** (Caching & Acceleration Server)
+ - **Debian 12** (For Linux-only software)
 
 ## 📫 Reach Me
 
 E-Mail: xiobb#msn.com or me#imxb.de
-Telegram: @xiobb233v4
+Telegram: [@xiobb233v4](https://t.me/xiobb233v4)
 
 # 🖊 My GitHub Stats
 
