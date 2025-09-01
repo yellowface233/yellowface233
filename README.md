@@ -16,7 +16,7 @@
  - **Windows 10 22H2 ProW** (Surface)
 
 **Server & DevOps:**
- - **Windows Server 2012 R2** (Hosting *Kangle Web Server* for production sites.)
+ - **Windows Server 2012 R2** (Hosting *Kangle Web Server* for production sites)
  - **RockyLinux 9.3** (Caching & Acceleration Server)
  - **Debian 12** (For Linux-only software)
 
