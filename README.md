@@ -1,5 +1,5 @@
 
-<h1 align=center>Hi there👋 I am xiobb!</h1>
+<h1 align=center>Hi there👋 I am xioiox!</h1>
 
   - 🎓 High school student | Self-taught developer
   - 🖊 Blog: https://www.imxb.de
@@ -16,13 +16,12 @@
  - **Windows 10 22H2 ProW** (Surface)
 
 **Server & DevOps:**
- - **Windows Server 2012 R2** (Hosting *Kangle Web Server* for production sites)
- - **RockyLinux 9.3** (Caching & Acceleration Server)
+ - **Windows Server 2016** (Hosting *Kangle Web Server* for production sites)
  - **Debian 12** (For Linux-only software)
 
 # 📫 Reach Me
 
-E-Mail: xiobb#msn.com or me#imxb.de
+E-Mail: hi#586866.xyz
 
 Telegram: [@xiobb233v4](https://t.me/xiobb233v4)
 
