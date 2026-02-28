@@ -2,7 +2,7 @@
 <h1 align=center>Hi there👋 I am xioiox!</h1>
 
   - 🎓 High school student | Self-taught developer
-  - 🖊 Blog: https://www.imxb.de
+  - 🖊 Blog: https://www.imxb.de/blog.asp
   - 💻 IaaS Provider: https://www.7inet.moe
 
 # 🛠️ Tech & Tools
@@ -16,7 +16,8 @@
  - **Windows 10 22H2 ProW** (Surface)
 
 **Server & DevOps:**
- - **Windows Server 2016** (Hosting *Kangle Web Server* for production sites)
+ - **VMware ESXi 8**
+ - **Windows Server 2022** (Hosting *Kangle Web Server* for production sites)
  - **Debian 12** (For Linux-only software)
 
 # 📫 Reach Me
