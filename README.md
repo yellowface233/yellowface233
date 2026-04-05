@@ -16,8 +16,8 @@
  - **Windows 10 22H2 ProW** (Surface)
 
 **Server & DevOps:**
- - **VMware ESXi 8**
  - **Windows Server 2022** (Hosting *Kangle Web Server* for production sites)
+ - **Rockylinux 9** (For Linux-only software)
  - **Debian 12** (For Linux-only software)
 
 # 📫 Reach Me
