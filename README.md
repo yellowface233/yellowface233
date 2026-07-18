@@ -7,17 +7,16 @@
 
 # 🛠️ Tech & Tools
 
-![Skills](https://skillicons.dev/icons?i=vscode,php,dotnet,nodejs,express,html,css,js,vue,nuxt,react,electron,vite,markdown&theme=light)
+![Skills](https://skillicons.dev/icons?i=vscode,php,nodejs,express,html,css,js,vue,nuxt,react,electron,vite,markdown&theme=light)
 
 # 💻 Operating Systems I Use
 
 **Daily use:**
- - **Windows 11 24H2 LTSC** (ThinkPad)
+ - **Windows 10 22H2 ProW** (ThinkPad)
  - **Windows 10 22H2 ProW** (Surface)
 
 **Server & DevOps:**
- - **Windows Server 2022** (Hosting *Kangle Web Server* for production sites)
- - **Rockylinux 9** (For Linux-only software)
+ - **Windows Server 2022** (Hosting *Apache httpd* for production sites)
  - **Debian 12** (For Linux-only software)
 
 # 📫 Reach Me
